@@ -1,0 +1,32 @@
+﻿[
+    {
+        "Name": "Potion",
+        "Level": 1,
+        "ItemClass": [
+            {
+                "Name": "Potion",
+                "Weight": 15
+            }
+        ]
+    },
+    {
+        "Name": "Poison",
+        "Level": 1,
+        "ItemClass": [
+            {
+                "Name": "Rotten Fish",
+                "Weight": 15
+            }
+        ]
+    },
+    {
+        "Name": "Antidote",
+        "Level": 1,
+        "ItemClass": [
+            {
+                "Name": "Antidote",
+                "Weight":  15
+            }
+        ]
+    }
+]

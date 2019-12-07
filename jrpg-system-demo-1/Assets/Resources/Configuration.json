@@ -1,0 +1,18 @@
+﻿{
+    "MemberTags": [
+        "Alexa",
+        "Roger"
+    ],
+    "ActiveCharacter": {
+        "Alexa": 0,
+        "Roger": 1
+    },
+    "PgItemsSources": {
+        "ItemsPath": "Items",
+        "PrefixesPath": "Prefixes",
+        "SuffixesPath": "Suffixes",
+        "DropSourcesPath": {
+            "Treasure": "Treasure"
+        }
+    }
+}
